@@ -8,8 +8,10 @@ Course:Cryptography and Cyber Law
 
 ##  Google Colab Notebook(Practice Link)
 Demo_session link:## Google Colab Notebook
-
 [Open Google Colab Notebook](https://colab.research.google.com/drive/1CTIiGAGsFLaWdw5OGoiHAZtipgeeoERF?usp=sharing)
+Many time Pad link:
+https://colab.research.google.com/drive/1nD7m5otOHAp-zlecJjQ5qTojglpFhx3q?usp=sharing
+
 
 
 
