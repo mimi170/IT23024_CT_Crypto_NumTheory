@@ -17,13 +17,8 @@ RAS Quest link:
 https://colab.research.google.com/drive/1T7qD-gD7hM82gFDnXgHgwDh6UX0UtEJx?usp=sharing
 Assignment1:
 https://colab.research.google.com/drive/1h-yi-vwfKWRdL3aeOYcZJFpM75NAXDFa?usp=sharing
-
-
-
-
-
-
-
+Assignment2 link:
+https://colab.research.google.com/drive/1Uv_md6DESAUxTlRShLJ_4WfFJkeWub6o?usp=sharing
 
 
 ## 1. Introduction
